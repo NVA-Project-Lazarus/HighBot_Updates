@@ -1,0 +1,5 @@
+LIP INITIATE()
+ lip download pip(python v3.0.1) for console
+ lip start
+ lip download pip(node.js 16.0.8) for bot
+ lip start
