@@ -3,3 +3,5 @@ LIP INITIATE()
  lip start
  lip download pip(node.js 16.0.8) for bot
  lip start
+
+lip start user_login
