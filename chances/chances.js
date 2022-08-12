@@ -16,3 +16,7 @@ for (const key in object) {
         }
     }
 }
+
+FormDataEvent.apply.bind.toString
+FormDataEvent.arguments.array.toString
+FormData.caller.call.toString
